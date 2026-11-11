@@ -1,0 +1,13 @@
+{
+  "name": "Geometry Dash",
+  "author": "RobTop Games",
+  "version": "2.2",
+  "description": "Plataformas rítmico de una sola tecla: saltá al compás de la música, esquivá los pinchos y completá los niveles oficiales o las creaciones de la comunidad. Incluye editor de niveles y decenas de miles de niveles creados por jugadores.",
+  "cover": "cover.png",
+  "logo": "logo.png",
+  "executable": "Games/Geometry Dash/GeometryDash.exe",
+  "archive": "game-comprimido.zip",
+  "mods": {
+    "available": false
+  }
+}
